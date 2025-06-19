@@ -1,8 +1,9 @@
 
 # 🌩️ Pixel Rain Tornado Explosion
 
+(Programme Python fait entièrement avec ChatGPT.)
 Transformez vos images en spectacles visuels époustouflants !  
-`Pixel Rain Animator` est une animation artistique où chaque image s'affiche, **s'effondre pixel par pixel**, est emportée par une **tornade animée**, puis **explose violemment** dans un flash blanc final 💥… avant qu'une nouvelle image n'entre en scène. Programme Python fait entièrement avec ChatGPT.
+`Pixel Rain Animator` est une animation artistique où chaque image s'affiche, **s'effondre pixel par pixel**, est emportée par une **tornade animée**, puis **explose violemment** dans un flash blanc final 💥… avant qu'une nouvelle image n'entre en scène.
 
 ---
 
@@ -85,7 +86,7 @@ pyinstaller --onefile --noconsole prog.py
 
 ---
 
-## ✨ Démo (optionnel)
+## ✨ Démo vidéo
 
 [![Pixel Rain Tornado Demo](https://img.youtube.com/vi/9VFg2hJvhnM/0.jpg)](https://www.youtube.com/watch?v=9VFg2hJvhnM)
 
