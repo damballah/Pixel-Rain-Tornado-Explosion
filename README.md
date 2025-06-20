@@ -15,6 +15,7 @@ Transformez vos images en spectacles visuels époustouflants !
 - 🌪️ Tornade aléatoire qui balaie l'écran dans toutes les directions possibles
 - 💥 Flash + explosion dynamique au centre de l'image
 - 🔁 Animation en boucle sur toutes les images du dossier
+- 🧩 Musique unique pour chaque image grâce à la signature SHA512
 
 ---
 
@@ -80,7 +81,6 @@ pyinstaller --onefile --noconsole prog.py
 
 ## 💡 Idées futures
 
-- Ajouter de la musique / des effets sonores
 - Interface utilisateur pour choisir les images
 - Mode plein écran dynamique
 - Transitions personnalisables
